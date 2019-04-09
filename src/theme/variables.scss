@@ -26,7 +26,7 @@ $blue:            #0064d2; // Link, background.
 $turquoise:       #007982; // Accent.
 $green:           #5e8100; // Accent.
 $red:             #cb3d4d;
-$orange:          #f98012; // Accent (never text).
+$orange:          #3CC5EE; // Accent (never text).
 $yellow:          #fbad1a; // Accent (never text).
 $core-color:      $orange;
 
@@ -131,8 +131,8 @@ $item-divider-color: $black !default;
 // --------------------------------------------------
 
 // Init screen.
-$core-color-init-screen:          #ff5c00 !default;
-$core-color-init-screen-alt:      #ff7600 !default;
+$core-color-init-screen:          #3CC5EE !default;
+$core-color-init-screen-alt:      #3CC5EE !default;
 $core-init-screen-spinner-color:  $white !default;
 $core-init-screen-logo-width:     60% !default;
 $core-init-screen-logo-max-width: 300px !default;
